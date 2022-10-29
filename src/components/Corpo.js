@@ -5,7 +5,7 @@ function Corpo() {
             <p>Digite o que precisa e clique em pesquisar</p>
             <input type="Seach" placehome="digite sua pesquisa"></input>
             
-                <a className="linha">CADASTRE-SE</a>
+                <a className="linha">CADASTRE-SE!</a>
                 <a className="linha">LOGIN</a>
             
         </div>
