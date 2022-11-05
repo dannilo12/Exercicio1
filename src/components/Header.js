@@ -6,10 +6,10 @@ function  Header(){
         <div className="cabecalho">
         
             <nav className="menu_a">
-                <a>Home</a>
-                <a>Sobre</a>
-                <a>O Projeto</a>
-                <a>Acesso</a>
+                <a href="#"> Home</a>
+                <a href="#"> Sobre</a>
+                <a href="#"> O Projeto</a>
+                <a href="#"> Acesso</a>
             </nav>
         </div>
     )

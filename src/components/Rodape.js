@@ -3,8 +3,8 @@ function Rodape() {
         <div className="contato">
         <ul>
             <h2>Contato:</h2>
-            <li>E-mail</li>
-            <li>Telefone</li>
+            <li><a href="#">E-mail</a></li>
+            <li><a href="#">Telefone</a></li>
             </ul>
         </div>
     )
